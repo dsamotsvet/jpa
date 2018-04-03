@@ -1,0 +1,10 @@
+GET http://localhost:8080/api/articles
+###
+
+DELETE http://localhost:8080/api/delete-article/1
+
+###
+
+POST http://localhost:8080/api/add-article?title=FIRST_BOOK&category=AZBUKA
+
+###
